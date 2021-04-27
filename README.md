@@ -7,7 +7,7 @@ In order to test the proposed algorithm is necessary to follow the next steps:
 
 * Clone the PX4 firmware from https://github.com/PX4/PX4-Autopilot.
 * Compile it according to https://docs.px4.io/master/en/dev_setup/building_px4.html.
-* Paste the files above (from this repository) to replace the old ones.
+* Paste the .cpp and hpp files above (4 from this repository) to replace the old ones.
 * Compile the firmware again.
 
 Then, the compiled firmware can be run through a SITL simulation following the steps in 
